@@ -1,5 +1,10 @@
-streamlit
-deepface
-pillow
-pandas
-plotly
+streamlit==1.33.0
+deepface==0.0.79
+Pillow==10.2.0
+pandas==2.0.3
+plotly==5.18.0
+# The following are dependencies of deepface, pinning them to avoid conflicts
+numpy==1.23.5
+opencv-python==4.8.0.76
+tensorflow==2.13.0
+keras==2.13.1
