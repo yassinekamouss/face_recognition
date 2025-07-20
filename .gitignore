@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (if any get downloaded)
+*.pkl
+*.h5
+*.pb
