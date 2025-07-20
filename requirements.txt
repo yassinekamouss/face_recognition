@@ -3,5 +3,3 @@ deepface
 pillow
 pandas
 plotly
-tensorflow
-opencv-python-headless
