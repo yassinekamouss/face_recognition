@@ -1,5 +1,7 @@
-streamlit>=1.47.0
-deepface>=0.0.93
-pillow>=11.3.0
-pandas>=2.3.1
-plotly>=5.0.0
+streamlit
+deepface
+pillow
+pandas
+plotly
+tensorflow
+opencv-python-headless
