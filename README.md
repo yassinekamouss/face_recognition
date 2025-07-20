@@ -1,5 +1,7 @@
 # 🎯 Face Analysis App
 
+![Capture d'écran de l'application](capture_d'écran.png)
+
 Une application d'analyse faciale moderne construite avec Streamlit et DeepFace pour analyser l'âge, le genre, l'origine ethnique et les émotions.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
